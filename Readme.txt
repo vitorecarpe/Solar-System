@@ -1,0 +1,6 @@
+For Windows use Visual Studio.
+For Mac use Terminal.
+
+Make sure you have all packages installed.
+
+Thank you.
