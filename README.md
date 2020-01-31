@@ -3,7 +3,7 @@
 
 # Contributors
 
-[Vitor Peixoto](https://github.com/VitorPeixoto97)
+[Vitor Peixoto](https://github.com/vitorecarpe)
 
 [Francisco Oliveira](https://github.com/Tibblue)
 
